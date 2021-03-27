@@ -2,16 +2,16 @@
 ## 项目简介
 基于hadoop生态搭建的电商数仓
 ### 系统架构
-![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/img/framework.png)
+![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/tree/main/img/framework.png)
 
 ### 数仓分层
-![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/img/layered.png)
+![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/tree/main/img/layered.png)
 
 ### er图
-![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/img/er.png)
+![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/tree/main/img/er.png)
 
 ### 数仓模型图
-![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/img/dimension.png)
+![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/tree/main/img/dimension.png)
 
 ### 技术选型
 
@@ -30,7 +30,7 @@
 | jdk | 1.8.0 | 依赖 |  |
 
 ### 集群规划
-![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/img/clusterplan.png)
+![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/tree/main/img/clusterplan.png)
 
 ### 项目结构说明
 ```
@@ -190,4 +190,4 @@
 </table>
 
 ### 集群规划
-![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/img/clusterplan.png)
+![系统数据流程图.jpeg](https://github.com/okmii/mall-warehouse/tree/main/img/clusterplan.png)
