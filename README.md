@@ -13,6 +13,9 @@
 ### 数仓模型图
 ![系统数据流程图.png](https://i.loli.net/2021/03/28/N6METLo1AewfW7k.png)
 
+### 集群规划
+![系统数据流程图.png](https://i.loli.net/2021/03/28/Wj7eHBZV6N4Sakx.png)
+
 ### 技术选型
 
 | 名称 | 版本号 | 类型 | 说明 |
@@ -28,9 +31,6 @@
 | zookeeper|3.4.10 | 集群管理 ||
 | setuptools| 0.0.0 | 数据可视化 | imply方式安装 |
 | jdk | 1.8.0 | 依赖 |  |
-
-### 集群规划
-![系统数据流程图.png](https://i.loli.net/2021/03/28/Wj7eHBZV6N4Sakx.png)
 
 ### 项目结构说明
 ```
