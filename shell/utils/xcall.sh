@@ -1,7 +1,7 @@
-#!/bin/bash
- 
- for((i=1 ;i <=3 ;i=$i+1 ));do
-	echo ==========okmi0$i $@==========
-	ssh okmi0$i "source /etc/profile;$@"
- done
+#! /bin/bash
 
+for i in hadoop102 hadoop103 hadoop104
+do
+        echo --------- $i ----------
+        ssh $i "$*"
+done
