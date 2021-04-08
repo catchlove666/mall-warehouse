@@ -1,7 +1,9 @@
 # 电商数仓
 ## 项目简介
 基于hadoop生态搭建的电商数仓
+
 视频地址：https://www.bilibili.com/video/BV1RD4y1d7c5?p=154
+https://www.bilibili.com/video/BV1dD4y1d7wL?p=401
 ### 系统架构
 ![系统数据流程图.png](https://i.loli.net/2021/03/28/btAez5m6dqLFfVT.png)
 
